@@ -1,0 +1,3 @@
+https://arxiv.org/abs/2102.10662
+https://github.com/MAZiqing/FEDformer
+https://github.com/cure-lab/LTSF-Linear
